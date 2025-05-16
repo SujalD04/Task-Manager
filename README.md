@@ -27,7 +27,7 @@ A simple Task Manager built with **Spring Boot**, **JPA**, and **H2 In-Memory Da
 
 ## 🗂️ Project Structure
 
-src
+`src
 ├── main
 │ ├── java
 │ │ └── com.example.demo
@@ -39,7 +39,7 @@ src
 │ └── resources
 │ │ └── application.properties
 │ └── webapp #jsp files
-
+`
 ## Run the application 
 `mvn spring-boot:run
 `
