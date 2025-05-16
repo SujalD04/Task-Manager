@@ -25,21 +25,6 @@ A simple Task Manager built with **Spring Boot**, **JPA**, and **H2 In-Memory Da
 
 ---
 
-## 🗂️ Project Structure
-
-`src
-├── main
-│ ├── java
-│ │ └── com.example.demo
-│ │ ├── controller # REST Controllers
-│ │ ├── model # Entity Classes
-│ │ ├── repository # JPA Repositories
-│ │ └── service # Services
-│ │ └── TaskManagerApplication.java
-│ └── resources
-│ │ └── application.properties
-│ └── webapp #jsp files
-`
 ## Run the application 
 `mvn spring-boot:run
 `
